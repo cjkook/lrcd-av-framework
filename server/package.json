@@ -1,0 +1,27 @@
+{
+  "name": "lrcd-av-server",
+  "version": "1.0.0",
+  "description": "server to handle midi information via max for live and relay it to the web client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjkook/lrcd-av-framework.git"
+  },
+  "keywords": [
+    "music",
+    "node",
+    "max/msp"
+  ],
+  "author": "Corey J. Kothenbeutel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cjkook/lrcd-av-framework/issues"
+  },
+  "homepage": "https://github.com/cjkook/lrcd-av-framework#readme",
+  "dependencies": {
+    "socket.io": "^4.7.4"
+  }
+}
