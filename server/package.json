@@ -17,6 +17,7 @@
   ],
   "author": "Corey J. Kothenbeutel",
   "license": "ISC",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/cjkook/lrcd-av-framework/issues"
   },
